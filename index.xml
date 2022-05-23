@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>My personal website</title>
+        <link>http://example.org/</link>
+        <description>Recent content on My personal website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Resources</title>
+        <link>http://example.org/page/resources/</link>
+        <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://example.org/page/resources/</guid>
+        <description>&lt;h1 id=&#34;my-personal-list-of-useful-resources-and-websites&#34;&gt;My personal list of useful resources and websites&lt;/h1&gt;
+&lt;h2 id=&#34;to-take-into-account&#34;&gt;To take into account&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I reccomend you to read through this resources about privacy, security, anonimity, and why care about them:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.privacyguides.org/basics/threat-modeling/#how-much-trouble-am-i-willing-to-go-through-to-try-to-prevent-potential-consequences&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PrivacyGuides.org - Threat Modeling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.privacyguides.org/basics/common-threats/#mass-surveillance-programs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PrivacyGuides.org - Common threats&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://ssd.eff.org/en/module/your-security-plan&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Surveillance Self Defence - Your security plan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=Hjspu7QV7O0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Youtube - The Hated One - &amp;ldquo;Why privacy matters even if you have nothing to hide&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=pcSlowAhvUk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Youtube - TED - &amp;ldquo;Glenn Greenwald: Why privacy matters&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;great-wikis-forums-and-guides&#34;&gt;Great wikis, forums and guides&lt;/h2&gt;
+&lt;h3 id=&#34;reddit&#34;&gt;Reddit&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;r/FMHY wiki                    &lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;r/DataHoarder wiki						 &lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/DataHoarder/wiki/index&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.reddit.com/r/DataHoarder/wiki/index&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sites&#34;&gt;Sites&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PrivacyTools														 &lt;a class=&#34;link&#34; href=&#34;https://www.privacytools.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.privacytools.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Privacy Guides														 &lt;a class=&#34;link&#34; href=&#34;https://privacyguides.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://privacyguides.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PRISM Break														 &lt;a class=&#34;link&#34; href=&#34;https://prism-break.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://prism-break.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AlternativeTo 														 &lt;a class=&#34;link&#34; href=&#34;https://alternativeto.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://alternativeto.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Btw.so open source alternatives							  &lt;a class=&#34;link&#34; href=&#34;https://www.btw.so/open-source-alternatives/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.btw.so/open-source-alternatives/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stanford Encyclopedia of Philosophy 				 &lt;a class=&#34;link&#34; href=&#34;https://plato.stanford.edu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://plato.stanford.edu/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;github-repositories&#34;&gt;Github repositories&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Foss-Apps 								 &lt;a class=&#34;link&#34; href=&#34;https://albertomosconi.github.io/foss-apps/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://albertomosconi.github.io/foss-apps/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Awesome-Privacy 						 &lt;a class=&#34;link&#34; href=&#34;https://github.com/pluja/awesome-privacy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/pluja/awesome-privacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Awesome-Selfhosted 				 &lt;a class=&#34;link&#34; href=&#34;https://github.com/awesome-selfhosted/awesome-selfhosted&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/awesome-selfhosted/awesome-selfhosted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Awesome-Piracy      					 &lt;a class=&#34;link&#34; href=&#34;https://github.com/Igglybuff/awesome-piracy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Igglybuff/awesome-piracy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;alternative-frontends 				 &lt;a class=&#34;link&#34; href=&#34;https://github.com/mendel5/alternative-front-ends&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/mendel5/alternative-front-ends&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;youtubeodysee-channels&#34;&gt;Youtube/Odysee Channels&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Even though I reccomend most of these channels, take into account that you must be reasonable and be sceptic and consider any political, ideology bias any of these channels can have. This applies particularly to &amp;ldquo;Opinion, philosophy&amp;rdquo; and &amp;ldquo;Journalism&amp;rdquo; so you have to be cautious, note that I haven&amp;rsquo;t reviewed all of their videos but at least from what I already watched they seem correct for my standarts, let me know if anything seems wrong and I will fix the list.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;opinion-philosophy&#34;&gt;Opinion, philosophy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Adam Something
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCcvfHa-GHSOHFAjU0-Ie57A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCcvfHa-GHSOHFAjU0-Ie57A&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Alan Fisher
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UC-LM91jkqJdWFvm9B5G-w7Q&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UC-LM91jkqJdWFvm9B5G-w7Q&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Common Sense Skeptic
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCgKWj1pn3_7hRSFIypunYog&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCgKWj1pn3_7hRSFIypunYog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://odysee.com/@CommonSenseSkeptic:0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://odysee.com/@CommonSenseSkeptic:0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Philosophy Tube
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;privacy-advicates&#34;&gt;Privacy advicates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;censiCLICK
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCy2b5p8-XccSOR_x5HGpiRA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCy2b5p8-XccSOR_x5HGpiRA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://odysee.com/@censiCLICK:3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://odysee.com/@censiCLICK:3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mental Outlaw
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://odysee.com/@AlphaNerd:8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://odysee.com/@AlphaNerd:8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The Hated One
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Techlore
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://odysee.com/@techlore:3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://odysee.com/@techlore:3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SomeOrdinaryGamers
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/c/SomeOrdinaryGamers&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/c/SomeOrdinaryGamers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://odysee.com/@SomeOrdinaryGamers:a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://odysee.com/@SomeOrdinaryGamers:a&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;journalism&#34;&gt;Journalism&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Johnny Harris
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCmGSJVG3mCRXVOP4yZrU1Dw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCmGSJVG3mCRXVOP4yZrU1Dw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vox
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/c/Vox&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/c/Vox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;urban-planners&#34;&gt;Urban planners&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Not Just Bikes
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UC0intLFzLaudFG-xAvUEO-A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UC0intLFzLaudFG-xAvUEO-A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://odysee.com/@notjustbikes:1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://odysee.com/@notjustbikes:1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;City Beautiful
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/c/CityBeautiful&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/c/CityBeautiful&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;science-divulgation&#34;&gt;Science divulgation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vsauce
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/c/vsauce1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/c/vsauce1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Veritasium
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://odysee.com/@veritasium:f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://odysee.com/@veritasium:f&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Kurzgesagt - In a Nutshell
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;QuantumFracture
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Deep Dive
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCFPGKw4jb7CJur6cHmIgI3Q&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCFPGKw4jb7CJur6cHmIgI3Q&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;HRom
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCeiyuZljcK9iXzMAgzb9kpA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCeiyuZljcK9iXzMAgzb9kpA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dot CSV
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;maths&#34;&gt;Maths&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3Blue1Brown
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://odysee.com/@3Blue1Brown:b&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://odysee.com/@3Blue1Brown:b&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Khan Academy
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/c/khanacademy&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/c/khanacademy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://odysee.com/@KhanAcademy:5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://odysee.com/@KhanAcademy:5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Lemnismath
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UC-ihtKdODqNE7iPISJD3DnA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UC-ihtKdODqNE7iPISJD3DnA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Louis Rossmann
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/user/rossmanngroup&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/user/rossmanngroup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://odysee.com/@rossmanngroup:a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://odysee.com/@rossmanngroup:a&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;No Text No Speech
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCxaaULLk6UCnRl5VKRc7G0A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCxaaULLk6UCnRl5VKRc7G0A&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Posy
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCmEmX_jw_pRp5UbAdzkZq-g&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCmEmX_jw_pRp5UbAdzkZq-g&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vicesat
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UC76hs2bdrebFYvdR-I8bwyw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UC76hs2bdrebFYvdR-I8bwyw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Solo travel Japan
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UC-CWBoT-r7VijIr8YZTtzxA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UC-CWBoT-r7VijIr8YZTtzxA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;other-websites-and-tools&#34;&gt;Other websites and tools&lt;/h2&gt;
+&lt;h3 id=&#34;temporary-mail&#34;&gt;Temporary mail&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Smail
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://smailpro.com/advanced&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://smailpro.com/advanced&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Guerrilla Mail
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.guerrillamail.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.guerrillamail.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;p2p-peer-to-peer-file-transfer-using-browser&#34;&gt;P2P (peer to peer) file transfer using browser&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Blaze
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blaze.vercel.app/app&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://blaze.vercel.app/app&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;encrypted-documents-online&#34;&gt;Encrypted documents online&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cryptpad
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://cryptpad.fr/drive/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://cryptpad.fr/drive/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;e2e-end-to-end-encrypted-cloud-service&#34;&gt;E2E (End-to-End) encrypted cloud service&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mega.nz
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://mega.nz/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://mega.nz/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;url-shortener&#34;&gt;Url shortener&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Unshort.link
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://unshort.link/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://unshort.link/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;online-graphing-calculator--scientific-calculator&#34;&gt;Online graphing calculator + scientific calculator&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Demos
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.desmos.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.desmos.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rich-feature-translator&#34;&gt;Rich feature translator&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;DeepL
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.deepl.com/translator&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.deepl.com/translator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Update to about page</title>
+        <link>http://example.org/post/first/</link>
+        <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://example.org/post/first/</guid>
+        <description>&lt;h2 id=&#34;new-section&#34;&gt;New section!&lt;/h2&gt;
+&lt;p&gt;Now the about page contains resources, links, channels, etc I consider usefull, also some posts about privacy, open source, and more.
+I&amp;rsquo;m now working in translating to other languages, as well to have resources in other languages when possible (or implement some sort of real time translation addon :p)&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://example.org/page/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://example.org/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://example.org/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://example.org/page/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
